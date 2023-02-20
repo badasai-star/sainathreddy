@@ -1,6 +1,0 @@
-STATES
-AP
-TS
-TM
-KL
-K
