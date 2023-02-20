@@ -4,9 +4,4 @@ TS
 TN
 KA
 KL
-north states
-mumbai
-kolkata
-maharastra
-fdjadf
-hgdhd
+
