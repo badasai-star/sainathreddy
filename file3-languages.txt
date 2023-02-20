@@ -1,0 +1,11 @@
+languages
+telugu
+hindi
+english
+kanada
+tamil
+marati
+urdu 
+mcjvdf
+kmksndn
+
